@@ -17,3 +17,5 @@ git commit -m
 m= modified
 u= untracked
 a= staged
+commad for listing remote branch
+git branch
