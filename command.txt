@@ -1,0 +1,18 @@
+
+commad for adding username
+git config --golbal user.name :(username)
+
+commad for adding email
+git config --golbal user.email :(user@gmail)
+
+commad for listing all untracked files
+git status
+
+commad for adding changes to local workspace to staging area
+git add -A
+
+commad for adding all staged files to local workspace to local respository
+git commit -m
+
+m= modified
+u= untracked
