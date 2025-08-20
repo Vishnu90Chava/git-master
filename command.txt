@@ -16,3 +16,4 @@ git commit -m
 
 m= modified
 u= untracked
+a= staged
